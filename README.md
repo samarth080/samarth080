@@ -21,9 +21,8 @@
 ### About Me
 
 - 🎓 B.E. Computer Engineering @ **Thapar Institute of Engineering & Technology** (TIET '27)
-- 📈 Started trading crypto at 14 — built my first algo trading bot before most people open a brokerage account
+- 📈 Started trading crypto at 14 — By the time I wrote my first line of code, I already knew what it meant to ship something real and watch people use it.
 - 🔧 I build backend systems, AI pipelines, and decentralized apps — then actually ship them
-- 🧠 250+ DSA problems solved across LeetCode & Codeforces
 - 🎯 Looking for **SDE / Product / Fintech** internship roles where I can build things that matter
 
 ---
@@ -94,8 +93,9 @@ AI-powered GitHub App that automatically triages incoming issues using LLMs for 
 </td>
 <td width="50%">
 
-#### 💬 [Real-Time Chat Platform](https://github.com/samarth080/realtime-chat-go)
-Scalable real-time messaging backend built in Go, handling 100+ concurrent connections via WebSockets. Features normalized MySQL schema with optimized indexing, read receipts, and documented RESTful API endpoints.
+#### 💬 [Real-Time Messaging Platform](https://github.com/samarth080/realtime-chat-go)
+Architected high-concurrency Go platform using goroutines/channels handling 500+ simultaneous WebSocket connections
+with sub-100ms data delivery; designed normalized PostgreSQL schema with optimized indexing and connection pooling.
 
 `Go` `WebSockets` `MySQL` `REST APIs`
 
@@ -110,10 +110,6 @@ Scalable real-time messaging backend built in Go, handling 100+ concurrent conne
 ### Highlights
 
 🏆 **Runner-Up** — Grapethon 2024 Hackathon (full-stack, competitive build)
-
-🚀 **Hackathon Participant** — ISRO Bharatiya Antariksh Hackathon 2025, HackRx 6.0 (Bajaj Finserv), HackOWASP
-
-📊 **Bain BrAINWARS 2026** — Built strategy decks for a fitness wearables case (PulseX)
 
 👥 **Founded a 2,000+ member exam prep community** — scaled 3x in 6 months with 70%+ daily active retention
 
