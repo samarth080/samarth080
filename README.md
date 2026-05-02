@@ -24,7 +24,7 @@
 - 📈 Started trading crypto at 14 — By the time I wrote my first line of code, I already knew what it meant to ship something real and watch people use it.
 - 🔧 I build backend systems, AI pipelines, and decentralized apps — then actually ship them
 - 🎯 Looking for **SDE / Product / Fintech** internship roles where I can build things that matter
-
+  
 ---
 
 ### Tech Stack
@@ -68,7 +68,7 @@
 <td width="50%">
 
 #### 🤖 [Binance AI-Powered Trading Engine](https://github.com/samarth080/the-ultimate-binance-trading-bot)
-Algo trading system with a multi-timeframe signal engine (RSI, MACD, Supertrend, VWAP, ADX, StochRSI), NLP-driven news auto-trading across 15+ live feeds, ATR-based risk management with drawdown guards, and TWAP execution. Terminal-style web dashboard + Telegram alerts. Runs on real capital.
+Algo trading system with a multi-timeframe signal engine (RSI, MACD, Supertrend, VWAP, ADX, StochRSI), NLP-driven news auto-trading across 15+ live feeds, ATR-based risk management with drawdown guards, and TWAP execution. Terminal-style web dashboard + Telegram alerts. Runs on real capital
 
 `Python` `FastAPI` `asyncio` `Pandas` `NLP` `SQLite`
 
