@@ -118,7 +118,22 @@ with sub-100ms data delivery; designed normalized PostgreSQL schema with optimiz
 📈 **Crypto since 14** — hands-on with airdrops, memecoins, futures trading, and building tools around it
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samarth080&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="95%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarth080&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarth080&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth080&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarth080&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
 
 ---
 
