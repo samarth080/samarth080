@@ -109,7 +109,7 @@ with sub-100ms data delivery; designed normalized PostgreSQL schema with optimiz
 
 ### Highlights
 
-🏆 **Runner-Up** — Grapethon 2024 Hackathon (full-stack, competitive build)
+🏆 **TOP 20 PAN INDIA** — 1,700+ teams at BrAINWARS 2026 — Bain & Company's national case competition
 
 👥 **Founded a 2,000+ member exam prep community** — scaled 3x in 6 months with 70%+ daily active retention
 
