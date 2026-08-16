@@ -133,7 +133,12 @@ Classifies market sentiment from news headlines using TF-IDF with bigrams across
 
 🏆 **TOP 20 PAN INDIA** — 1,700+ teams at BrAINWARS 2026, Bain & Company's national case competition
 
-🛠️ **EX SWE Intern @ Shunya Agritech** — built a 33-case automated test suite, found 2 critical unauthenticated API vulnerabilities, made the mobile suite device-agnostic with percentage-based coordinates
+🛠️ **Product, Data & AI Automation Intern @ Shunya Agritech** — • Converted subjective seed-quality checks into a standardized, auditable workflow across 500+ samples by translating
+agronomy needs into decision rules, reducing manual inspection effort by ~70%.
+• Defined decision-ready quality KPIs, dashboards and exception alerts that flagged underperforming batches ~2 days
+earlier, enabling faster corrective action.
+• Owned the QA cycle for a self-serve automation engine; ran 80+ checks across 12+ modules, found 15+ issues
+including 2 critical security gaps, and avoided external QA spend worth thousands of dollars per month
 
 🚀 **Founder, scent.rix & Thapar Reads** — a D2C perfume decant brand and a student book exchange, both running on campus
 
