@@ -164,5 +164,5 @@ including 2 critical security gaps, and avoided external QA spend worth thousand
 <p align="center">
   <em>"I care about systems that work under pressure — not just systems that demo well."</em><br><br>
   <strong>Open to SDE, Product, and Fintech internship opportunities.</strong><br>
-  Let's build something → <a href="mailto:schatli_be23@thapar.edu">schatli_be23@thapar.edu</a>
+  Let's build something → <a href="mailto:samarthchatli@gmail.com">samarthchatli@gmail.com</a>
 </p>
