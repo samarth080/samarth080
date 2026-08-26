@@ -204,13 +204,30 @@ AI-powered architectural design platform that generates, renders, and edits 3D l
 
 <br>
 
+<!-- ═══════════════════ EXPERIENCE ═══════════════════ -->
+<img src="https://img.shields.io/badge/-%20%20%20%20experience%20%20%20%20-0d1117?style=for-the-badge&labelColor=00ADD8" />
+
+### 🌱 Shunya Agritech
+> **Product, Data & AI Automation Intern**
+
+- Turned subjective seed-quality judgement into a standardized, auditable workflow across **600+ samples**, translating agronomy requirements into explicit decision rules and cutting manual inspection effort **~70%**.
+- Defined decision-ready quality KPIs, dashboards, and exception alerts that surfaced underperforming batches **~2 days earlier**, enabling corrective action before the loss moved downstream.
+- Owned the QA cycle for a self-serve automation engine — **80+ checks** across **12+ modules**, **15+ issues** caught — avoiding thousands of dollars a month in external QA spend.
+
+### 📣 Social House Learning (NDGYS)
+> **Marketing & Analytics Intern**
+
+- Ran campaign analytics and reporting on Google Analytics, Meta Ads, and Python.
+
+<br>
+
 <!-- ═══════════════════ RECEIPTS ═══════════════════ -->
 <img src="https://img.shields.io/badge/-%20%20%20%20receipts%20%20%20%20-0d1117?style=for-the-badge&labelColor=ff6b35" />
 
 ```
   🏆  TOP 20 PAN INDIA       BrAINWARS 2026 · Bain & Company · 1,700+ teams
   👥  COMMUNITY BUILDER      3,500+ member exam-prep community · 70%+ daily active
-  💼  MARKETING & ANALYTICS  Intern @ NDYJS · Google Analytics, Meta Ads, Python
+  💼  MARKETING & ANALYTICS  Intern @ Social House Learning · Meta Ads, GA
   📈  MARKETS SINCE 14       Airdrops, memecoins, futures — and the tools around them
 ```
 
