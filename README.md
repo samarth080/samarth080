@@ -1,168 +1,213 @@
-<h1 align="center">Samarth Chatli</h1>
-<p align="center">
-  <strong>Software Engineer · Product Builder · Web3 & Crypto Native</strong><br>
-  <em>Building systems that work under pressure — not just systems that demo well.</em>
-</p>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:39d353&height=200&section=header&text=SAMARTH%20CHATLI&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Software+Engineer+%7C+Product+Builder+%7C+Web3+%26+Markets+Native&descAlignY=54&descSize=15&animation=fadeIn" width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samarth-chatli-2494b4289/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://github.com/samarth080">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=780&height=46&lines=%3E+I+build+systems+that+work+under+pressure.;%3E+Not+just+systems+that+demo+well.;%3E+Algo+trading+engines+%7C+AI+pipelines+%7C+decentralized+apps;%3E+Trading+crypto+since+14.+Shipping+code+ever+since." alt="Typing SVG" />
   </a>
-  <a href="https://twitter.com/samarthchatli">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:schatli_be23@thapar.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/samarth-chatli-2494b4289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/samarthchatli"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:schatli_be23@thapar.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/samarth080?tab=repositories"><img src="https://img.shields.io/badge/25_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=samarth080&style=for-the-badge&color=39d353&label=VISITORS" />
+</div>
 
-### About Me
+<br>
 
-- 🎓 B.E. Computer Engineering @ **Thapar Institute of Engineering & Technology** (TIET '27)
-- 📈 Started trading crypto at 14. Learned what it costs to be wrong with money on the line before I ever wrote a line of code.
-- 🔧 Backend systems, AI pipelines, agent environments, and decentralized apps — built, tested, and deployed, not left on localhost
-- 🎯 Open to **SDE / Product / Fintech** internship roles
+<!-- ═══════════════════ NEOFETCH ═══════════════════ -->
 
----
+```
+           ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+        ▄████████████████████▄            samarth@github
+      ▄████████████████████████▄          ──────────────────────────────────────────
+    ██████████████████████████████
+   ████████████████████████████████         edu ........  B.E. Computer Engineering
+   ████████████████████████████████                       Thapar Institute · TIET '27
+   ████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀████         role .......  SWE · Product · Fintech
+   ███                          ███         langs ......  Python · Go · C++ · Java · JS
+   ██    ▄▄▄▄▄▄▄▄    ▄▄▄▄▄▄▄▄    ██         contracts ..  Motoko · Internet Computer
+   ██    █▀▀▀▀▀▀█    █▀▀▀▀▀▀█    ██         stack ......  FastAPI · React · Docker · PG
+   ██    █ ▐██▌ █▄▄▄▄█ ▐██▌ █    ██         domains ....  Backend · AI/ML · Web3 · Markets
+   ██    █▄▄▄▄▄▄█    █▄▄▄▄▄▄█    ██
+   ███                          ███         shipped ....  Algo trading desk, live capital
+   ████         ▄▄▄▄▄▄         ████         markets ....  Crypto since 14 · futures
+   █████                      █████         community ..  3,500+ members · 70% DAU
+    ██████████████████████████████          best rank ..  Top 20 / 1,700 · BrAINWARS '26
+▄████████████████████████████████████▄      repos ......  25 public and counting
+██████████████████████████████████████
+██████████████████████████████████████      status .....  ▲ open to internships
+ ╔══════════════════════════════════╗       contact ....  schatli_be23@thapar.edu
+ ║                                  ║
+ ║               </>                ║     ──────────────────────────────────────────
+ ║                                  ║       ███  ███  ███  ███  ███  ███  ███  ███
+ ╚══════════════════════════════════╝
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 
-### Tech Stack
+<br>
 
-**Languages**
+<!-- ═══════════════════ WHOAMI ═══════════════════ -->
+<img src="https://img.shields.io/badge/-%20%20%20%20whoami%20%20%20%20-0d1117?style=for-the-badge&labelColor=39d353" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Motoko](https://img.shields.io/badge/Motoko-6B25C4?style=flat-square&logoColor=white)
+```yaml
+origin:   Started trading crypto at 14. By the time I wrote my first line
+          of code, I already knew what it meant to ship something real
+          and watch strangers use it.
 
-**Frameworks & Libraries**
+now:      Backend systems, AI pipelines, and decentralized apps —
+          then I actually deploy them and keep them alive.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+looking:  SDE / Product / Fintech internships where the thing I build
+          has to survive contact with real users and real money.
+```
 
-**Infrastructure & Tools**
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
-![ICP](https://img.shields.io/badge/Internet_Computer-3B00B9?style=flat-square&logo=dfinity&logoColor=white)
+<!-- ═══════════════════ STACK ═══════════════════ -->
+<img src="https://img.shields.io/badge/-%20%20%20%20stack%20%20%20%20-0d1117?style=for-the-badge&labelColor=1f6feb" />
 
----
+<table>
+<tr><td width="150"><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,go,mysql&theme=dark" height="42" />
+<img src="https://img.shields.io/badge/Motoko-6B25C4?style=flat-square&logoColor=white" height="26" />
+</td></tr>
+<tr><td><b>Frameworks</b></td><td>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,pytorch,tensorflow,opencv&theme=dark" height="42" />
+</td></tr>
+<tr><td><b>Infra &amp; Tools</b></td><td>
+<img src="https://skillicons.dev/icons?i=git,docker,postgres,firebase,linux,postman,vercel&theme=dark" height="42" />
+<img src="https://img.shields.io/badge/ICP-3B00B9?style=flat-square&logo=dfinity&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" height="26" />
+</td></tr>
+</table>
 
-### Featured Projects
+<br>
+
+<!-- ═══════════════════ BUILDS ═══════════════════ -->
+<img src="https://img.shields.io/badge/-%20%20%20%20builds%20%20%20%20-0d1117?style=for-the-badge&labelColor=f7df1e" />
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🤖 [Binance AI-Powered Trading Engine](https://github.com/samarth080/the-ultimate-binance-trading-bot)
-Algo trading system with a multi-timeframe signal engine (RSI, MACD, Supertrend, VWAP, ADX, StochRSI), NLP-driven news auto-trading across 15+ live feeds, Kelly Criterion position sizing, ATR-based risk management with drawdown guards, and TWAP execution. Terminal-style web dashboard + Telegram alerts. Runs on real capital.
+### 📈 Binance Trading Engine
+> **Runs on real capital.**
 
-`Python` `FastAPI` `asyncio` `Pandas` `NLP` `SQLite` `Docker`
+Multi-timeframe signal engine (RSI, MACD, Supertrend, VWAP, ADX, StochRSI) with NLP news auto-trading across 15+ live feeds, ATR risk management with drawdown guards, and TWAP execution. Terminal-style dashboard + Telegram alerts.
 
-</td>
-<td width="50%">
+`Python` `FastAPI` `asyncio` `Pandas` `NLP` `SQLite`
 
-#### 🩺 [Triage Copilot — Graph-Aware RAG GitHub App](https://github.com/samarth080/testingtriange)
-GitHub App that triages incoming issues using retrieval over a code-and-issue graph, not just embeddings. **0.967 F1** on classification, 150 tests in CI, deployed end to end on Render + Supabase + Qdrant Cloud + Upstash + Vercel. Responds to webhooks live and posts severity, category, and suggested owners.
-
-`Python` `FastAPI` `RAG` `Qdrant` `Supabase` `GitHub API`
+<a href="https://github.com/samarth080/the-ultimate-binance-trading-bot"><img src="https://img.shields.io/badge/View_Repo-39d353?style=flat-square&logo=github&logoColor=black" /></a>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🧪 [CREE — Causal Reverse Engineering Engine](https://github.com/samarth080/cree)
-OpenEnv-compliant RL environment modelling SRE incident response. The agent sees latency, error rate, and CPU load but cannot observe risk level, memory pressure, or an armed cascade trigger — it has to discover 7 hidden causal rules through interaction. 10 actions, 3 graded tasks, gpt-4o-mini baseline at 0.38 avg.
+### 🔐 CertiNode
+> **Blockchain document verification.**
 
-`Python` `FastAPI` `RL` `Gym` `Docker`
+Certificate verification on the Internet Computer with Motoko smart contracts, ResNet facial recognition at 95%+ accuracy, and Tesseract OCR for extraction. Built and deployed inside a hackathon window.
 
-</td>
-<td width="50%">
+`React` `Flask` `ICP` `Motoko` `ResNet` `OpenCV`
 
-#### 💬 [Real-Time Messaging Platform](https://github.com/samarth080/realtime-chat-go)
-High-concurrency Go platform using goroutines and channels, handling 500+ simultaneous WebSocket connections with sub-100ms delivery. Normalized PostgreSQL schema with optimized indexing and connection pooling.
-
-`Go` `WebSockets` `PostgreSQL` `REST APIs`
+<a href="https://github.com/samarth080/-CertiNode"><img src="https://img.shields.io/badge/View_Repo-3B00B9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🔐 [CertiNode — Decentralized Document Verification](https://github.com/samarth080/-CertiNode)
-Blockchain-backed certificate verification on ICP with Motoko smart contracts, ResNet facial recognition (95%+ accuracy), and Tesseract OCR for document extraction. Built and deployed during a hackathon.
+### 🤖 Triage Copilot
+> **An AI agent that reads your issues.**
 
-`React` `Flask` `ICP` `Motoko` `ResNet` `OpenCV` `OCR`
+GitHub App that triages incoming issues with LLM classification and labeling. Responds to webhooks in real time and posts structured comments with severity, category, and suggested actions.
+
+`Python` `FastAPI` `LLMs` `GitHub API` `Webhooks`
+
+<a href="https://github.com/samarth080/testingtriange"><img src="https://img.shields.io/badge/View_Repo-1f6feb?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📊 [Stock Market Sentiment Analysis](https://github.com/samarth080/stock-market-sentimental-analysis)
-Classifies market sentiment from news headlines using TF-IDF with bigrams across multiple trained models. Built to answer a question I actually had while trading: does headline tone lead price, or lag it?
+### 💬 Realtime Messaging (Go)
+> **500+ concurrent sockets, sub-100ms.**
 
-`Python` `scikit-learn` `NLP` `Jupyter`
+High-concurrency Go platform built on goroutines and channels, with a normalized PostgreSQL schema, optimized indexing, and connection pooling behind it.
+
+`Go` `WebSockets` `PostgreSQL` `REST`
+
+<a href="https://github.com/samarth080/realtime-chat-go"><img src="https://img.shields.io/badge/View_Repo-00ADD8?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
 
-> 🔗 **Also here:** [Thapar Reads](https://github.com/samarth080/thapar-reads) (student book platform) · [Scentrix](https://github.com/samarth080/scentrix) (D2C perfume storefront) · [all repositories →](https://github.com/samarth080?tab=repositories)
+<div align="center">
+  <a href="https://github.com/samarth080?tab=repositories"><img src="https://img.shields.io/badge/→%20all%2025%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
----
+<br>
 
-### Highlights
+<!-- ═══════════════════ RECEIPTS ═══════════════════ -->
+<img src="https://img.shields.io/badge/-%20%20%20%20receipts%20%20%20%20-0d1117?style=for-the-badge&labelColor=ff6b35" />
 
-🏆 **TOP 20 PAN INDIA** — 1,700+ teams at BrAINWARS 2026, Bain & Company's national case competition
+```
+  🏆  TOP 20 PAN INDIA       BrAINWARS 2026 · Bain & Company · 1,700+ teams
+  👥  COMMUNITY BUILDER      3,500+ member exam-prep community · 70%+ daily active
+  💼  MARKETING & ANALYTICS  Intern @ NDYJS · Google Analytics, Meta Ads, Python
+  📈  MARKETS SINCE 14       Airdrops, memecoins, futures — and the tools around them
+```
 
-🛠️ **Product, Data & AI Automation Intern @ Shunya Agritech** — • Converted subjective seed-quality checks into a standardized, auditable workflow across 500+ samples by translating
-agronomy needs into decision rules, reducing manual inspection effort by ~70%.
-• Defined decision-ready quality KPIs, dashboards and exception alerts that flagged underperforming batches ~2 days
-earlier, enabling faster corrective action.
-• Owned the QA cycle for a self-serve automation engine; ran 80+ checks across 12+ modules, found 15+ issues
-including 2 critical security gaps, and avoided external QA spend worth thousands of dollars per month
+<br>
 
-🚀 **Founder, scent.rix & Thapar Reads** — a D2C perfume decant brand and a student book exchange, both running on campus
+<!-- ═══════════════════ TELEMETRY ═══════════════════ -->
+<img src="https://img.shields.io/badge/-%20%20%20%20telemetry%20%20%20%20-0d1117?style=for-the-badge&labelColor=8957e5" />
 
-👥 **Founded a 3,500+ member exam prep community** — scaled 3x in 6 months with 70%+ daily active retention
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samarth080&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=samarth080&theme=tokyonight&hide_border=true&background=0d1117&ring=39d353&fire=ff6b35&currStreakLabel=39d353" />
+</div>
 
-💼 **Marketing & Analytics Intern @ NDGYS** — Google Analytics, Meta Ads, Python automation
+<div align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" />
+  <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarth080&theme=github_dark&utcOffset=5.5" />
+</div>
 
-📈 **Crypto since 14** — airdrops, memecoins, futures, and building the tools around them
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samarth080&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarth080&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=39d353&line=1f6feb&point=ffffff&area=true&area_color=39d353" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth080&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=samarth080&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarth080&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarth080/samarth080/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarth080/samarth080/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/samarth080/samarth080/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
 
----
+<br>
 
-<p align="center">
-  <em>"I care about systems that work under pressure — not just systems that demo well."</em><br><br>
-  <strong>Open to SDE, Product, and Fintech internship opportunities.</strong><br>
-  Let's build something → <a href="mailto:samarthchatli@gmail.com">samarthchatli@gmail.com</a>
-</p>
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+
+```
+  $ ./samarth --status
+
+  > open to SDE, Product, and Fintech internships
+  > reply time: fast
+  > let's build something  →  schatli_be23@thapar.edu
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,55:1f6feb,100:0d1117&height=140&section=footer&text=thanks+for+scrolling&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" />
+</div>
