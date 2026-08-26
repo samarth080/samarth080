@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:39d353&height=200&section=header&text=SAMARTH%20CHATLI&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Software+Engineer+%7C+Product+Builder+%7C+Web3+%26+Markets+Native&descAlignY=54&descSize=15&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:39d353&height=200&section=header&text=SAMARTH%20CHATLI&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=Software+Engineer+%7C+Product+Builder+%7C+Web3+%26amp%3B+Markets+Native&descAlignY=54&descSize=15&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/samarth-chatli-2494b4289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/samarthchatli"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:schatli_be23@thapar.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:samarthchatli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/samarth080?tab=repositories"><img src="https://img.shields.io/badge/25_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=samarth080&style=for-the-badge&color=39d353&label=VISITORS" />
 </div>
@@ -41,7 +41,7 @@
 ▄████████████████████████████████████▄      repos ......  25 public and counting
 ██████████████████████████████████████
 ██████████████████████████████████████      status .....  ▲ open to internships
- ╔══════════════════════════════════╗       contact ....  schatli_be23@thapar.edu
+ ╔══════════════════════════════════╗       contact ....  samarthchatli@gmail.com
  ║                                  ║
  ║               </>                ║     ──────────────────────────────────────────
  ║                                  ║       ███  ███  ███  ███  ███  ███  ███  ███
@@ -144,6 +144,58 @@ High-concurrency Go platform built on goroutines and channels, with a normalized
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Multibagger Engine
+> **Every score traces back to a number.**
+
+Autonomous equity research engine for NSE/BSE. Screens index universes, scores companies against benchmark thresholds, and attaches a confidence level derived from data completeness — plus backtesting to check whether the score actually predicts returns.
+
+`Python` `FastAPI` `Pandas` `DuckDB` `SQLAlchemy`
+
+<a href="https://github.com/samarth080/multibagger-engine"><img src="https://img.shields.io/badge/View_Repo-39d353?style=flat-square&logo=github&logoColor=black" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 CREE
+> **An agent that reverse-engineers causality.**
+
+Causal Reverse Engineering Engine — a reinforcement learning agent that probes a black-box system and discovers the hidden cause-effect relationships driving it.
+
+`Python` `RL` `Causal Inference` `NumPy`
+
+<a href="https://github.com/samarth080/cree"><img src="https://img.shields.io/badge/View_Repo-8957e5?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 CX Radar
+> **Conversations into product decisions.**
+
+AI-powered customer experience intelligence platform that turns raw conversation data into evidence-backed product decisions, so a recommendation always carries the transcript that justifies it.
+
+`TypeScript` `LLMs` `React` `Node.js`
+
+<a href="https://github.com/samarth080/cx-radar"><img src="https://img.shields.io/badge/View_Repo-ff6b35?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ ArchiAI
+> **Describe a floor plan. Get a 3D one.**
+
+AI-powered architectural design platform that generates, renders, and edits 3D layouts from natural-language briefs.
+
+`Python` `FastAPI` `LLMs` `3D` `React`
+
+<a href="https://github.com/samarth080/archiai-saas"><img src="https://img.shields.io/badge/View_Repo-1f6feb?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -205,7 +257,7 @@ High-concurrency Go platform built on goroutines and channels, with a normalized
 
   > open to SDE, Product, and Fintech internships
   > reply time: fast
-  > let's build something  →  schatli_be23@thapar.edu
+  > let's build something  →  samarthchatli@gmail.com
 ```
 
 <div align="center">
