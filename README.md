@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/samarth-chatli-2494b4289/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/samarthchatli"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:samarthchatli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/samarth080?tab=repositories"><img src="https://img.shields.io/badge/25_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/samarth080?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=samarth080&style=for-the-badge&color=39d353&label=VISITORS" />
 </div>
 
@@ -38,7 +38,7 @@
    ████         ▄▄▄▄▄▄         ████         markets ....  Crypto since 14 · futures
    █████                      █████         community ..  3,500+ members · 70% DAU
     ██████████████████████████████          best rank ..  Top 20 / 1,700 · BrAINWARS '26
-▄████████████████████████████████████▄      repos ......  25 public and counting
+▄████████████████████████████████████▄      repos ......  public and counting
 ██████████████████████████████████████
 ██████████████████████████████████████      status .....  ▲ open to internships
  ╔══════════════════════════════════╗       contact ....  samarthchatli@gmail.com
@@ -199,7 +199,7 @@ AI-powered architectural design platform that generates, renders, and edits 3D l
 </table>
 
 <div align="center">
-  <a href="https://github.com/samarth080?tab=repositories"><img src="https://img.shields.io/badge/→%20all%2025%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/samarth080?tab=repositories"><img src="https://img.shields.io/badge/→%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
