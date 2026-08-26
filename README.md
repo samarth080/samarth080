@@ -211,3 +211,39 @@ High-concurrency Go platform built on goroutines and channels, with a normalized
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,55:1f6feb,100:0d1117&height=140&section=footer&text=thanks+for+scrolling&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" />
 </div>
+# Save this file at: .github/workflows/snake.yml
+# in your samarth080/samarth080 profile repo.
+
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#39d353
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
